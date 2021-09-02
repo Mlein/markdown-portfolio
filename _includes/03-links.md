@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/Mlein)
+[GitHub](https://github.com/Mlein)
